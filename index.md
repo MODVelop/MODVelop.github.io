@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Raiden
+## by MODVelop
 
-You can use the [editor on GitHub](https://github.com/MODVelop/MODVelop.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Raiden, that was developed by Seibu Kaihatsu in 1990, consist of eight vertical scrolling missions where the player controls the Raiden craft destroying the enemies. There are powerups like bombs and missiles as well as medals. When the user defeat the 8th boss of the game, the user recieve a milion points every time that completes a loop.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MODVelop/MODVelop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ![Raiden](https://github.com/Danijimenez/Projecte-I/blob/master/raidengrande.png)
+ 
+ 
+ 
+ We created a version of the original arcade. Please, try it!
+ 
+ ### Raiden Tribute
+ VIDEO
+ 
+ ## MODVelop staff
+ 
+ 
+ 
+ Víctor Agrisuelas: Art.
+ 
+ Óscar Hernandez: Code.
+ 
+ Daniel Jiménez: Management.
+ 
+ Manel Mourelo: Q/A.
+ 
+ 
