@@ -5,23 +5,21 @@ Raiden, that was developed by Seibu Kaihatsu in 1990, consist of eight vertical 
 
  ![Raiden](https://github.com/Danijimenez/Projecte-I/blob/master/raidengrande.png)
  
+We created a version of the original arcade. Please, try it!
  
+### Raiden Tribute
+VIDEO
  
- We created a version of the original arcade. Please, try it!
+## MODVelop staff
  
- ### Raiden Tribute
- VIDEO
+![Foto grupo](https://github.com/MODVelop/MODVelop.github.io/blob/master/Foto%20grupo.jpg)
  
- ## MODVelop staff
+· Víctor Agrisuelas: Art.
  
- ![Foto grupo](https://github.com/MODVelop/MODVelop.github.io/blob/master/Foto%20grupo.jpg)
+· Óscar Hernandez: Code.
  
- · Víctor Agrisuelas: Art.
+· Daniel Jiménez: Management.
  
- · Óscar Hernandez: Code.
- 
- · Daniel Jiménez: Management.
- 
- · Manel Mourelo: Q/A.
+· Manel Mourelo: Q/A.
  
  
