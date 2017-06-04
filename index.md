@@ -14,7 +14,7 @@ Raiden, that was developed by Seibu Kaihatsu in 1990, consist of eight vertical 
  
  ## MODVelop staff
  
- ![Foto grupo]()
+ ![Foto grupo](https://github.com/MODVelop/MODVelop.github.io/blob/master/Foto%20grupo.jpg)
  
  Víctor Agrisuelas: Art.
  
