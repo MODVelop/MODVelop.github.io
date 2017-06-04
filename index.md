@@ -9,7 +9,7 @@ Raiden, that was developed by Seibu Kaihatsu in 1990, consist of eight vertical 
 We created a version of the original arcade. Please, try it!
  
 ### Raiden Tribute
-VIDEO
+<iframe width="854" height="480" src="https://www.youtube.com/embed/E6Mnbx6I5w0" frameborder="0" allowfullscreen></iframe>
  
 ## MODVelop staff
  
