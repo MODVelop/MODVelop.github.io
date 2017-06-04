@@ -26,8 +26,8 @@ We created a version of the original arcade game. Please, try it!
 # Links:
  
  
- ## [Click here to download our latest version of the game](https://github.com/Danijimenez/Projecte-I/releases/download/1.0/Raiden.v1.0.MODVelop.zip)
+ · [Click here to download our latest version of the game](https://github.com/Danijimenez/Projecte-I/releases/download/1.0/Raiden.v1.0.MODVelop.zip)
  
- ## [Visit our wiki](https://github.com/Danijimenez/Projecte-I/wiki)
+ · [Visit our wiki](https://github.com/Danijimenez/Projecte-I/wiki)
  
- ## [View the code of the game in our repository](https://github.com/Danijimenez/Projecte-I)
+ · [View the code of the game in our repository](https://github.com/Danijimenez/Projecte-I)
