@@ -24,6 +24,8 @@ We created a version of the original arcade game. Please, try it!
 - Manel Mourelo: Q/A.
  
  
- ![Click here to download our latest version of the game]()
- ![Visit our wiki](https://github.com/Danijimenez/Projecte-I/wiki)
- ![View the code of the game in our repository](https://github.com/Danijimenez/Projecte-I)
+ [Click here to download our latest version of the game]()
+ 
+ [Visit our wiki](https://github.com/Danijimenez/Projecte-I/wiki)
+ 
+ [View the code of the game in our repository](https://github.com/Danijimenez/Projecte-I)
